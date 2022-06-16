@@ -1,1 +1,1 @@
-Download Donut.blend to reproduce the issue: 
+Download Donut.blend to reproduce the issue
