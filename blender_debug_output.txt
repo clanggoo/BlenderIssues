@@ -1,0 +1,18 @@
+I0616 16:31:28.995632  2456 device.cpp:32] CUEW initialization succeeded
+I0616 16:31:28.995632  2456 device.cpp:34] Found precompiled kernels
+I0616 16:31:29.017760  2456 device.cpp:55] HIPEW initialization failed: Error opening HIP dynamic library
+Error   : EXCEPTION_ACCESS_VIOLATION
+Address : 0x00007FF7A0E432EB
+Module  : blender.exe
+Thread  : 00000998
+Switching to fully guarded memory allocator.
+Blender 3.2.0
+Build: 2022-06-08 11:13:18 Windows release
+argv[0] = C:\Program Files\Blender Foundation\Blender 3.2\\blender
+argv[1] = --debug
+argv[2] = --debug-cycles
+argv[3] = --python-expr
+argv[4] = import bpy; bpy.ops.wm.sysinfo(filepath=r'C:\Users\JUMPIN~1\AppData\Local\Temp\blender\debug_logs\blender_system_info.txt')
+Read prefs: C:\Users\JumpinChoker\AppData\Roaming\Blender Foundation\Blender\3.2\config\userpref.blend
+Read blend: C:\Users\JumpinChoker\Documents\BlenderTutorial\donut.blend
+Writing: C:\Users\JUMPIN~1\AppData\Local\Temp\donut.crash.txt
